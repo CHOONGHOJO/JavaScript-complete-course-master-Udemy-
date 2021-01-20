@@ -1,0 +1,19 @@
+{
+  "name": "18-forkify",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Choongho Jo",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "fractional": "^1.0.0"
+  }
+}
